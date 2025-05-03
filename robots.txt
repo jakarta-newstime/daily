@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jakarta-newstime.github.io/daily/sitemap.xml
+
+<!-- created with Free Online Robots Generator Betslots88 x Totowin88 -->
